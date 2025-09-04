@@ -8,15 +8,11 @@ A simple neural network classifier for the MNIST handwritten digit dataset.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/MNIST-classifier.git
+git clone https://github.com/andolsitayssir/MNIST-classifier.git
 cd MNIST-classifier
 pip install -r requirements.txt
 ```
 
-## Usage
-```bash
-python train.py
-```
 
 ## Virtual environment
 It is recommended to use a virtual environment to manage dependencies:
@@ -26,6 +22,4 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-## Requirements
-pip install -r requirements.txt
 
