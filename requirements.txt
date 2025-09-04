@@ -1,4 +1,3 @@
- Python 
  PyTorch
  torchvision
  numpy
